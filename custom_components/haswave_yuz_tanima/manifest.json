@@ -1,7 +1,7 @@
 {
   "domain": "haswave_yuz_tanima",
   "name": "HasWave Yüz Tanıma",
-  "documentation": "https://github.com/HasWave/Home-Assistant-Yuz-Tanima",
+  "documentation": "https://github.com/HasWave/Home-Assistant-Face-Recognition",
   "requirements": ["opencv-python-headless>=4.9.0", "onnxruntime>=1.17.0", "insightface>=0.7.3", "numpy>=1.26.0", "requests>=2.31.0", "Pillow>=10.0.0"],
   "version": "1.0.0",
   "iot_class": "local_polling",
